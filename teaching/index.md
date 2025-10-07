@@ -5,10 +5,18 @@ title: Teaching Experience
 
 # Teaching Experience
 
-## Course 1
+## ENGL1301 Composition I
 - Description
 - Semester Taught
 
-## Course 2
+## ENGL1302 Composition II
+- Description
+- Semester Taught
+
+## ENC1101 English Composition I
+- Description
+- Semester Taught
+
+## ENC1102 English Composition II
 - Description
 - Semester Taught

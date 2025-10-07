@@ -9,7 +9,6 @@ This is my portfolio home page.
 
 ![Featured Image](/assets/featured-image.jpg)
 
-
 # Cailey Cassity-Ness
 ## Your Academic Position
 

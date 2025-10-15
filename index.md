@@ -3,8 +3,21 @@ layout: default
 title: Home
 ---
 
-# Home
 
+<html>
+<head>
+  <style>
+    .centered-text {
+      text-align: center;
+      margin: 0 auto;
+      width: 80%; /* optional: controls width of the block */
+    }
+  </style>
+</head>
+<body>
+  <div class="centered-text">
+    <p> 
+# Home
 This is my portfolio home page. 
 
 ![Featured Image](/assets/featured-image.jpg)
@@ -20,36 +33,14 @@ Briefly introduce yourself and your academic interests.
 - Topic 2
 - Topic 3
 
-### Publications and/or Conferences
-
-1. Paper Title, Journal, Year
-2. Another Paper Title, Conference, Year
-
 ### Contact
 
-- Email: your-email@example.com
-- Office: Your office location
+- Email: cailey.cassity-ness@ucf.edu
 
 ### Follow Me
 
-- [Bluesky](https://bsky.app/your_bluesky_handle)
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile)
-- [GitHub](https://github.com/your_github_username)
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .centered-text {
-      text-align: center;
-      margin: 0 auto;
-      width: 80%; /* optional: controls width of the block */
-    }
-  </style>
-</head>
-<body>
-  <div class="centered-text">
-    <p>This is your GitHub text or code snippet.</p>
+- [LinkedIn](https://www.linkedin.com/in/cailey-c-6548551b1)
+- [GitHub](https://github.com/ccassityness)</p>
   </div>
 </body>
 </html>

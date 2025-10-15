@@ -3,21 +3,8 @@ layout: default
 title: Home
 ---
 
-
-<html>
-<head>
-  <style>
-    .centered-text {
-      text-align: center;
-      margin: 0 auto;
-      width: 80%; /* optional: controls width of the block */
-    }
-  </style>
-</head>
-<body>
-  <div class="centered-text">
-    <p> 
 # Home
+
 This is my portfolio home page. 
 
 ![Featured Image](/assets/featured-image.jpg)
@@ -33,14 +20,17 @@ Briefly introduce yourself and your academic interests.
 - Topic 2
 - Topic 3
 
+### Publications and/or Conferences
+
+1. Paper Title, Journal, Year
+2. Another Paper Title, Conference, Year
+
 ### Contact
 
-- Email: cailey.cassity-ness@ucf.edu
+- Email: Cailey.Cassity-Ness@ucf.edu
 
 ### Follow Me
 
 - [LinkedIn](https://www.linkedin.com/in/cailey-c-6548551b1)
-- [GitHub](https://github.com/ccassityness)</p>
-  </div>
-</body>
-</html>
+- [GitHub](https://github.com/ccassityness)
+

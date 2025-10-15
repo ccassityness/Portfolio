@@ -23,7 +23,7 @@ title: Home
 ### Conference Presentations
 - "Method Development for Total Mitochondrial DNA Sequencing of *Plethodon websteri* and *Plethodon ventralis*, Millsaps College Honors Research Conference, March 2020
 - "Method Development for Total Mitochondrial DNA Sequencing of *Plethodon websteri* and *Plethodon ventralis*, Millsaps College Beta Beta Beta Research Symposium, February 2020
-“Weeds or Wildflowers? Examining Writing Center and Academic Success Center Collaborations,” Southeastern Writing Center Association, with Liz Egan and other undergraduate writing consultants, February 2020
+- “Weeds or Wildflowers? Examining Writing Center and Academic Success Center Collaborations,” Southeastern Writing Center Association, with Liz Egan and other undergraduate writing consultants, February 2020
 - "Mapping the Blues: Linking the Communities of Mississippi's Writing Centers," National Conference on Peer Tutoring in Writing and International Writing Center Association joint Conference, with Liz Egan and other undergraduate writing consultants,October 2019
 - "Are You My Neighbor? Building Connections between Mississippi's Writing Centers," Mississippi Writing Center Association Conference, with Liz Egan and other undergraduate writing consultants, March 2019
 - "Citizen, Connection, and Collaboration: Understanding Diversity in Jackson's Writing Centers," Mississippi Writing Center Association Conference, with Morgan Moss, March 2020

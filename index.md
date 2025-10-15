@@ -35,3 +35,21 @@ Briefly introduce yourself and your academic interests.
 - [Bluesky](https://bsky.app/your_bluesky_handle)
 - [LinkedIn](https://linkedin.com/in/your_linkedin_profile)
 - [GitHub](https://github.com/your_github_username)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .centered-text {
+      text-align: center;
+      margin: 0 auto;
+      width: 80%; /* optional: controls width of the block */
+    }
+  </style>
+</head>
+<body>
+  <div class="centered-text">
+    <p>This is your GitHub text or code snippet.</p>
+  </div>
+</body>
+</html>

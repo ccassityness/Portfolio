@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-<p align="center">
 
 # Home
 
@@ -34,5 +33,4 @@ Briefly introduce yourself and your academic interests.
 
 - [LinkedIn](https://www.linkedin.com/in/cailey-c-6548551b1)
 - [GitHub](https://github.com/ccassityness)
-</p>
 

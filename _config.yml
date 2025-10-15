@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme 
 title: Cailey Cassity-Ness
 description: Welcome to my website!
+<link rel="stylesheet" href="/assets/css/style.css">

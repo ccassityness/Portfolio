@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 # Curriculum Vitae
-
 # Cailey Cassity-Ness
 ## 1st Year Texts & Technology PhD Student
 

@@ -5,10 +5,9 @@ title: Projects
 
 # Projects
 
-## Project 1
-- Project Description
-- Technologies Used
+## 2026 Rollins College Carnegie Foundation Community Engagement Reclassification
+- Served as co-lead for Rollins College's Community Engagement Reclassification with the Carnegie Foundation. Consisted of data collection, data analysis, writing, editing, and formatting.
 
-## Project 2
-- Project Description
-- Technologies Used
+## Feminist Choose-Your-Own-Adventure Game - Current
+- Creating a choose-your-own adventure game/novel using a feminist lens. 
+- Twine - Harlowe 

@@ -34,7 +34,7 @@ underlying academic success through the study of literature
 ### Semesters Taught
 - Fall 2025, Spring 2025
 
-## Teaching Professional Development
+## Teaching Professional Development & Recognition
 - Blinn College Teaching Excellence Award Nominee 2023-2024 AY
 - Quality Matters - Designing Your Online Course - ENGL1301 Quality-Matters Certified
 - Mental Health First Aid
